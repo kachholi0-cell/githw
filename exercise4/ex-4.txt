@@ -1,1 +1,4 @@
 solve the problem of ex 
+[main b8f3ebb] changing for 4 th commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 exercise4/ex-4.txt
